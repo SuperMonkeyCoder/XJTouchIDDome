@@ -1,8 +1,11 @@
 # XJTouchIDDome
 一句代码实现指纹解锁
 
+导入
+```Objective-C
+#import "XJTouchHelper.h"
+```
 
-使用方法:
 ```Objective-C
 [XJTouchHelper touchHelperWithlocalizedReason:@"请按home键指纹解锁" reply:^(BOOL success, TouchIDErrorType errorType) 
 {        
