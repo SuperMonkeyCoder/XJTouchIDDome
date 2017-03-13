@@ -1,6 +1,7 @@
 # XJTouchIDDome
 一句代码实现指纹解锁
 
+使用方法
 导入
 ```Objective-C
 #import "XJTouchHelper.h"
